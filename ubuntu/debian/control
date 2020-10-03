@@ -1,4 +1,4 @@
-Source: ignition-launch3
+Source: ignition-launch4
 Standards-Version: 3.9.4
 Maintainer: Jose Luis Rivero <jrivero@osrfoundation.org>
 Section: science
@@ -20,11 +20,11 @@ Build-Depends: cmake,
                qtquickcontrols2-5-dev,
                libqt5core5a,
                binutils-dev
-Vcs-Browser: https://github.com/ignition-release/ign-launch3-release
-Vcs-Git: https://github.com/ignition-release/ign-launch3-release
-Homepage: https://github.com/ignition-release/ign-launch3
+Vcs-Browser: https://github.com/ignition-release/ign-launch4-release
+Vcs-Git: https://github.com/ignition-release/ign-launch4-release
+Homepage: https://github.com/ignition-release/ign-launch4
 
-Package: libignition-launch3
+Package: libignition-launch4
 Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
@@ -32,7 +32,7 @@ Depends: ${shlibs:Depends}, ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Launch Library - Launch libraries
 
-Package: libignition-launch3-dev
+Package: libignition-launch4-dev
 Architecture: any
 Section: libdevel
 Depends: libignition-cmake2-dev,
@@ -48,7 +48,7 @@ Depends: libignition-cmake2-dev,
 	 libwebsockets-dev,
 	 qtquickcontrols2-5-dev,
 	 libqt5core5a,
-	 libignition-launch3 (= ${binary:Version}),
+	 libignition-launch4 (= ${binary:Version}),
          ${misc:Depends}
 Multi-Arch: same
 Description: Ignition Robotics Launch Library - Launch libraries

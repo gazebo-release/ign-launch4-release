@@ -1,16 +1,4 @@
-ignition-launch3 (3.0.0~pre1-2~focal) focal; urgency=medium
-
-  * ignition-launch3 3.0.0~pre1-2 release
-
- -- Louise Poubel <louise@openrobotics.org>  Wed, 23 Sep 2020 16:20:16 -0700
-
-ignition-launch3 (3.0.0~pre1-1~focal) focal; urgency=medium
-
-  * ignition-launch3 3.0.0~pre1-1 release
-
- -- Louise Poubel <louise@openrobotics.org>  Wed, 23 Sep 2020 13:34:32 -0700
-
-ignition-launch3 (2.999.999-1~focal) focal; urgency=medium
+ignition-launch4 (3.999.999-1~focal) focal; urgency=medium
 
   * Stub to be removed after first entry
 
