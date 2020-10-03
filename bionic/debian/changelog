@@ -1,0 +1,11 @@
+ignition-launch3 (3.0.0~pre1-2~bionic) bionic; urgency=medium
+
+  * ignition-launch3 3.0.0~pre1-2 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Wed, 23 Sep 2020 16:20:16 -0700
+
+ignition-launch3 (2.999.999-1~bionic) bionic; urgency=medium
+
+  * ignition-launch3 2.999.999-1 release
+
+ -- Placeholder <placeholder@osrfoundation.org>  Thu, 05 Dec 2019 12:45:34 +0100
