@@ -1,3 +1,9 @@
+ignition-launch4 (4.0.0~pre1-1~bionic) bionic; urgency=medium
+
+  * ignition-launch4 4.0.0~pre1-1 release
+
+ -- Louise Poubel <louise@openrobotics.org>  Fri, 26 Mar 2021 16:09:53 -0700
+
 ignition-launch4 (3.999.999-1~bionic) bionic; urgency=medium
 
   * Stub to be removed after first entry
